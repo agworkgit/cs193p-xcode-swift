@@ -1,0 +1,26 @@
+//
+//  ContentView.swift
+//  CodeBreaker
+//
+//  Created by Tatiana Kornilova on 29/01/2026.
+//
+
+import SwiftUI
+
+struct ContentView: View {
+    var body: some View {
+        VStack{
+            Image(systemName: "globe")
+            if true {
+                Text("greetings!")
+            }
+            Text("howdy!")
+            Circle()
+        }
+        .padding()
+    }
+}
+
+#Preview {
+    ContentView()
+}
