@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  CodeBreaker
 //
-//  Created by Tatiana Kornilova on 29/01/2026.
+//  Created by Casian Grigore on 21/06/2026.
 //
 
 import SwiftUI
@@ -15,7 +15,6 @@ struct ContentView: View {
                 Text("greetings!")
             }
             Text("howdy!")
-            Circle()
         }
         .padding()
     }
